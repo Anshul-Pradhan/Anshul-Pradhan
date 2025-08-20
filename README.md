@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anshul-Pradhan
-- 👀 I’m interested in becoming a Full stack web developer  
-- 🌱 I’m currently doing my Masters in Computer Applications 
+- 👀 I’m a FUll Stack Shopify Developer 
+- 🌱 I’m did my Master's in Computer Applications 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anshulpradhan1@gmail.com
 
